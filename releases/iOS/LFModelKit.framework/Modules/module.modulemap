@@ -1,0 +1,6 @@
+framework module LFModelKit {
+  umbrella header "LFModelKit.h"
+
+  export *
+  module * { export * }
+}
